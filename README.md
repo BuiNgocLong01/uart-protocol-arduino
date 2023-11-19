@@ -1,2 +1,3 @@
-# uart-protocol-arduino
-In this article, I will guide you to perform communication between 2 Arduinos using the UART protocol (transmit and reveive).
+# UART PROTOCOL BETWEEN TWO ARDUINO BOARDS
+# YouTube Channel: Long Automation
+In this tutorial, I will guide you to perform communication between 2 Arduinos using the UART protocol (transmit and reveive).
